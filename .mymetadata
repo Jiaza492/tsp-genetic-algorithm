@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SchoolBus"
+  id="myeclipse.1401330843191"
+  context-root="/SchoolBus"
+  j2ee-spec="5.0"
+  archive="SchoolBus.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
